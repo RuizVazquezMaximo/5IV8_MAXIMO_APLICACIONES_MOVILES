@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "firebase",
-    "slug": "firebase",
+    "name": "camara",
+    "slug": "camara",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
